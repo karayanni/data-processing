@@ -9,5 +9,5 @@
             - CLAHE (contrast filter)  
             - hope to add more features as we go and feel free to add features as you find fit :)  
 
-## added a sample-data folder with 2 png images for experimenting 
+### added a sample-data folder with 2 png images for experimenting 
 
